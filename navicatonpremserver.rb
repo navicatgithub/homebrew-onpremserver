@@ -1,8 +1,8 @@
 class Navicatonpremserver < Formula
   desc "Navicat On-Prem Server is an on-premise solution that provides you with the option to host a cloud environment for storing Navicat objects internally at your location. You can enjoy complete control over your system and maintain 100% privacy."
   homepage "https://www.navicat.com/en/products#navicat-on-prem"
-  url "https://download3.navicat.com/onpremsvr-download/homebrew/navicat-onprem-server1.0.8.tar.gz"
-  sha256 "6e006add81b069bcd984192a2144e92adcce79074896488af0b033f23cf3984a"
+  url "https://download3.navicat.com/onpremsvr-download/homebrew/navicat-onprem-server1.1.0.tar.gz"
+  sha256 "1ea9a15171a61c2f5aa9d1e3deb6f30f768572a0e5557b0822c2cac18d1fe26b"
 
   bottle :unneeded
 
